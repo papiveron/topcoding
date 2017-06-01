@@ -1,7 +1,7 @@
 Nixmind TOPCODING
 =================
 
-A public repository for hosting my coding jockes and challenges !!!
+A public repository for hosting my coding jokes and challenges !!!
 
 
 String Compress
